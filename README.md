@@ -5,7 +5,8 @@
 </div>
 
 
-## Eu sou a Katherine Uchoas e esse é o meu repositório! <h6>I am Katherine Uchoas and this is my repository!</h6>
+## <h1>Eu sou a Katherine Uchoas e esse é o meu repositório!</h1>
+<h6>I am Katherine Uchoas and this is my repository!</h6>
 
 
 - 🎓 Advogada que transicionou para Tecnologia;
