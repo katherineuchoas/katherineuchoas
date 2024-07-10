@@ -6,6 +6,7 @@
 
 
 ## Eu sou a Katherine Uchoas e esse é o meu repositório!
+<h3 style="font-size: 8px;">I am Katherine Uchoas and this is my repository!</h3>
 
 - 🎓 Advogada que transicionou para Tecnologia;
 - 👩🏻‍🎓 3º Semestre de Análise e Desenvolvimento de Sistemas pela Wyden;
