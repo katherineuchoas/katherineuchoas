@@ -28,7 +28,7 @@
 </div>
   
   ##
- 
+ <h3 align="left">Conecte comigo!</h3>
 <div> 
   <a href="https://instagram.com/katherineuchoas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href = "mailto:katherineuchoas@icloud.com"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF" target="_blank"></a>
