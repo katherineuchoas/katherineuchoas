@@ -20,7 +20,8 @@
 
 <div align="center">
   <a href="https://github.com/katherineuchoas">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=katherineuchoas&show_icons=true&theme=radical&include_all_commits=true&count_private="/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=katherineuchoas&show_icons=true&theme=radical&include_all_commits=true"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=katherineuchoas&show_icons=true&theme=radical&count_private=true"/>
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katherineuchoas&layout=compact&langs_count=7&theme=radical"/>
   </a>
 </div>
