@@ -12,7 +12,7 @@
 <div align="center">
   🎓 Advogada que transicionou para Tecnologia - Lawyer who transitioned to Technology;<br>
   👩🏻‍🎓 3º Semestre de Análise e Desenvolvimento de Sistemas pela Wyden - 3rd Semester of Systems Analysis and Development at Wyden;<br>
-  🌱 Atualmente, estou atuando Java e Spring Boot - Currently, I'm working with Java and Spring Boot;<br>
+  🌱 Atualmente, atuando com Java e Spring Boot + Angular - Currently, I'm working with Java and Spring Boot + Angular;<br>
   😄 Pronomes: Ela / Dela - Pronouns: She / Her.
 </div>
 
